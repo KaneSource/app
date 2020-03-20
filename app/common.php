@@ -1,5 +1,4 @@
 <?php
-// 应用公共文件
 
 if (!function_exists('throw_exception')) {
     /**
